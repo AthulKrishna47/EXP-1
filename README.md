@@ -45,19 +45,25 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
+![kvl circuit](https://github.com/user-attachments/assets/f721a3a6-35e9-4444-bc2f-5c34b3512b03)
 
 
 b.  KCL:
  
+![kcl circuit](https://github.com/user-attachments/assets/2a6d2607-1285-4894-a8b2-815bc9b33aa7)
 
 Calculation:
 
 a.   KVL:
  
+![kvl theo](https://github.com/user-attachments/assets/a124cae0-4140-411b-9553-840781661bed)
 
+![kvl cal](https://github.com/user-attachments/assets/0398f7ce-4677-406f-99e5-5f926d39e024)
 
 b.  KCL:
+![kvl theo](https://github.com/user-attachments/assets/980d16d4-7a21-475c-824c-e8021632f298)
 
+![kcl cal](https://github.com/user-attachments/assets/9bae5175-ba2e-41f2-b4a9-6d02a8cbdc96)
 
 
 
@@ -65,10 +71,16 @@ Tabulation:
 
 a.   KVL:
  
+![kvl obs](https://github.com/user-attachments/assets/19d982c9-26de-478a-8abe-7224866f2660)
+<img width="1053" height="505" alt="Screenshot 2025-11-12 161614" src="https://github.com/user-attachments/assets/deb27532-fda7-40cf-bce7-6ef5e19ed9cc" />
+<img width="1041" height="487" alt="Screenshot 2025-11-12 161714" src="https://github.com/user-attachments/assets/ef49acca-b293-40de-8a0a-71b6eebcab5b" />
 
 
 b.  KCL:
 
+![kcl obs](https://github.com/user-attachments/assets/4b8460e6-eee2-4569-b6c2-290ce9e3153b)
+<img width="1029" height="548" alt="Screenshot 2025-11-14 112948" src="https://github.com/user-attachments/assets/437183be-762f-40ae-a5c3-ebe7925fe853" />
+<img width="1102" height="611" alt="Screenshot 2025-11-14 113008" src="https://github.com/user-attachments/assets/0ab35c1c-6b03-4986-a58d-2dd730987344" />
 
 
 RESULT:
